@@ -295,3 +295,5 @@ footer {
     padding: 10px 0;
 }
 ```
+## output
+![Screenshot 2024-07-05 143602](https://github.com/PRAVEEN6616/day3-css/assets/144005139/e52c7439-fedf-4959-92bf-aa3471eea285)
